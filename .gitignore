@@ -1,9 +1,2 @@
-# build
-/lib/
-
-# dependencies
-/node_modules/
-yarn.lock
-
-# test
-/test/
+node_modules
+.npm
